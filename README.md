@@ -11,7 +11,7 @@ Cabin: 1014 missing
 ### Data Cleaning
 Dropped rows with missing values in Age, Fare, and Embarked.
 
-📈 Univariate Analysis
+### Analysis
 Survival Count: More passengers died than survived.
 
 Pclass Distribution: Most passengers were in 3rd class.
